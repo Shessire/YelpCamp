@@ -4,12 +4,13 @@
 
 <p>YelpCamp is <strong style="color: red;">in the progress!</strong> Updates and new features are being added regularly as the project develops. Future enhancements will include image uploads, interactive maps, and a polished design to enhance user experience. Stay tuned for more updates! </p>
 
-![playgroundImage](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d726af82633527.5d23b268e26ba.gif)
+###
 
 <img align="right" alt="playgroundImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d726af82633527.5d23b268e26ba.gif" width="300"></img>
-
+###
 <p align="left">YelpCamp is a web application that allows users to create, browse, and review campgrounds. Whether you're looking for a great campsite or wanting to share your own, YelpCamp provides a platform for camping enthusiasts to connect and share information. 😀
 </p>
+###
 
 ## Features
 
