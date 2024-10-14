@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5f0dc3176d40f05e88e7bd2c/1614685168931-E7LSPH5C2ID6L2CJSTK4/camping-animation.gif" width="300"></img>
+<img align="right" src="https://i.pinimg.com/originals/fa/c7/56/fac756d3c37ce3d51cbc00db0f968372.gif" width="300"></img>
 <p align="left">YelpCamp is a web application that allows users to create, browse, and review campgrounds. Whether you're looking for a great campsite or wanting to share your own, YelpCamp provides a platform for camping enthusiasts to connect and share information. 😀
 </p>
 
