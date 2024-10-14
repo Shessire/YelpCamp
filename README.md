@@ -1,6 +1,6 @@
 # Yelp Camp
 
-## 🚧 Project Status 🚧
+<strong> 🚧 Project Status 🚧 </strong>
 
 <p>YelpCamp is <strong>in the progress!</strong> Updates and new features are being added regularly as the project develops. Future enhancements will include image uploads, interactive maps, and a polished design to enhance user experience. Stay tuned for more updates! </p>
 <br />
